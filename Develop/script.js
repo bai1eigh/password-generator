@@ -6,9 +6,6 @@ var confirmLower;
 var confirmSpecialCharacters;
 var user;
 
-//lower case letters 
-
-
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();
@@ -22,9 +19,14 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 // Assignment code here
-var tagName = prompt ("How many characters will your password have? Choose between 8 and 128");
+function generatePassword();{
+passwordLength = prompt ("How many characters will your password have? Choose between 8 and 128");
+console.log("Password Length" + passwordLength);
 
-if (tagName)
+if (!passwordLength 8 >= 128)
+
+//lower case letters 
+var confirmLower = [abcdefghijklmnopqrstuvwxyz];
 
         /* possible code 
         
