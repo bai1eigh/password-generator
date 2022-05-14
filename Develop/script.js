@@ -24,7 +24,7 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-//prompt 1 
+//prompt1
 
 var password = prompt("Enter in the password");
         if (password=="1234") {
