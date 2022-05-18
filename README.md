@@ -1,5 +1,5 @@
 # Password Generator Starter Code
-![](password%20generator.PNG)
+![](Develop/images/password%20generator.PNG)
 
 Click [here](quora.com/profile/Ashish-Kulkarni-100) for my deployed application 
 
