@@ -1,5 +1,5 @@
 # Password Generator Starter Code
-![](Develop/images/password%20generator.PNG)
+![](develop/assests/images/password%20generator.PNG)
 
 Click [here](https://bai1eigh.github.io/password-generator/) for my deployed application 
 
