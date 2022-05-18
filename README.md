@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 ![](password%20generator.PNG)
 
-deployed application 
+Click [here](quora.com/profile/Ashish-Kulkarni-100) for my deployed application 
 
-respository 
+Click [here](https://github.com/bai1eigh/password-generator) to go to my github respository
