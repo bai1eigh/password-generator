@@ -3,6 +3,7 @@ Click [here](https://bai1eigh.github.io/password-generator/) for my deployed app
 
 Click [here](https://github.com/bai1eigh/password-generator) to go to my github respository
 
-![password generator](https://user-images.githubusercontent.com/97183405/168939186-ed3204e3-502b-458c-ad9b-1412d5484467.PNG)
+![password generator](/Develop/assests/images/password%20generator.PNG)
 
 password 'slay'
+
